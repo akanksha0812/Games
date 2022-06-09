@@ -14,7 +14,7 @@ Javascript
 DOM
 Bootstrap
 
-**1.Dice Game**
+**2.Dice Game**
 
 **About**
 
