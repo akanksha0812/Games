@@ -1,12 +1,12 @@
 # Fun-projects
 
-**1.Drum Kit**
+# 1.Drum Kit
 
-**About**
+# About
 
 This is a simple JS based drum kit. Here, when you hit the corresponding key on your keyboard it's going to play the corresponding sound that is associated with the key.
 
-**Requirements**
+# Tech Stack
 
 HTML
 CSS
@@ -17,13 +17,13 @@ Bootstrap
 ![drum kit](https://user-images.githubusercontent.com/90760374/179043472-80b52e2a-27d4-459d-97cd-6ea7ab63fbc7.png)
 
 
-**2.Dice Game**
+# 2.Dice Game
 
-**About**
+# About
 
 This is a simple Dice throw game, only two players can play this game ,it's a funny game so, go ahead and play it with your loved ones.
 
-**Requirement**
+# Tech Stack
 
 HTML
 CSS
@@ -32,7 +32,7 @@ Bootstrap
 DOM
 ![dice game](https://user-images.githubusercontent.com/90760374/179043796-2953af66-99be-4d4a-8a49-5dd8b9a05fe8.png)
 
-**3.Simon-Game**
+# 3.Simon-Game
 The famous Simon Game using HTML, CSS and jQuery.
 
 # Idea
