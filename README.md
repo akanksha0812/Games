@@ -49,4 +49,5 @@ The famous Simon Game using HTML, CSS and jQuery.
 * If the player fails to remeber the sequence, the game is over.
 
 # Screeenshot
-![](Simon Game Challenge Starting Files/images/simon-game - Copy.png)
+![simon-game - Copy](https://user-images.githubusercontent.com/90760374/183305871-b31bcb3c-299c-466a-bd4c-ae37d96fc37a.png)
+
